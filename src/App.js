@@ -15,15 +15,17 @@ const App = () => {
         try {
             const response = await fetch(`${API_URL}&s=${title}`);
             const data = await response.json();
+            console.log(data);
+            
 
             if (data.Response === "True") {
                 setMovies(data.Search);
                 setError(null);
             } else {
                 setMovies([]);
-                setError(data.Error);
+                setError(data.error);
             }
-        } catch (err) {
+        } catch (error) {
             setError("Something went wrong. Please try again later.");
             setMovies([]);
         }
