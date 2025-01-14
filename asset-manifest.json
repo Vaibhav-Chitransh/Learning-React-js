@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.7cf83524.css",
-    "main.js": "/react-gh-pages/static/js/main.529a292b.js",
-    "index.html": "/react-gh-pages/index.html",
-    "static/media/search.svg": "/react-gh-pages/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
-    "main.7cf83524.css.map": "/react-gh-pages/static/css/main.7cf83524.css.map",
-    "main.529a292b.js.map": "/react-gh-pages/static/js/main.529a292b.js.map"
+    "main.css": "/movie-mania/static/css/main.7cf83524.css",
+    "main.js": "/movie-mania/static/js/main.22109ca0.js",
+    "index.html": "/movie-mania/index.html",
+    "static/media/search.svg": "/movie-mania/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.7cf83524.css.map": "/movie-mania/static/css/main.7cf83524.css.map",
+    "main.22109ca0.js.map": "/movie-mania/static/js/main.22109ca0.js.map"
   },
   "entrypoints": [
     "static/css/main.7cf83524.css",
-    "static/js/main.529a292b.js"
+    "static/js/main.22109ca0.js"
   ]
 }
